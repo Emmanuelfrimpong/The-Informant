@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722080060966",
+    "firebase_url": "https://the-informant-3ed47.firebaseio.com",
+    "project_id": "the-informant-3ed47",
+    "storage_bucket": "the-informant-3ed47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722080060966:android:2ad10f9fd10c44b34838e7",
+        "android_client_info": {
+          "package_name": "fuse.koda.theinformant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722080060966-ofpa1j6fcb4vc4mjkg7hck15s0t24024.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7jolWCQ5BX8g8jl26kg2zCQaJJEHZDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722080060966-ofpa1j6fcb4vc4mjkg7hck15s0t24024.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
